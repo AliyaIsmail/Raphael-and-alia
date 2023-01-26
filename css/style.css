@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+#title {
+    text-align: center;
+}
+#sub-title {
+    text-align: center;
+}
+#tribute-info {
+    margin: 100px;
+    
+}
+#img-div {
+    align-items: center;
+}
+#image-caption {
+    text-align: center;
+}
+.
